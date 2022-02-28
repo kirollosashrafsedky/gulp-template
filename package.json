@@ -10,5 +10,9 @@
     "gulp"
   ],
   "author": "Kirollos Ashraf",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kirollosashrafsedky/gulp-template.git"
+  }
 }
