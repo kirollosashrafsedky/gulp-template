@@ -1,0 +1,14 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Gulp template for using in future gulp projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Kirollos Ashraf",
+  "license": "ISC"
+}
